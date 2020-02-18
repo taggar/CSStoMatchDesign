@@ -220,6 +220,7 @@ section#menu {
     width: 1190px;
     height: 924px;
     flex-direction: column;
+    max-width: 100%;
 }
 
 #menu .section-heading {
